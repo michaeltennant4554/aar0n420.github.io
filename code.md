@@ -8,7 +8,7 @@
 <body>
 <body style="background-color:blue;">
 
-<h1Heading</h1>
+<h1>Heading</h1>
 <p>Paragraph.</p>
 
 </body>
