@@ -2,7 +2,7 @@
 <!DOCTYPE.html>
 <html>
 <head>
-<h1>Welcome to my website</h1y>
+<h1>Welcome to my website</h1>
 </head>
 <body>
 theme: jekyll-theme-cayman
