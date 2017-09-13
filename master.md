@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Website</title>
+<h1>Website</h1y>
 </head>
 <body>
 <body style="background-color:blue;">
 
-<h1>Heading</h1>
+<h2>Heading</h2>
 <p>Paragraph.</p>
 
 </body>
