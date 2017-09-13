@@ -1,6 +1,6 @@
 # aar0n420.github.io
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <h1>Welcome to my website</h1y>
