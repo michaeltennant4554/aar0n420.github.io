@@ -1,6 +1,5 @@
-# aar0n420.github.io
 
-
+<!DOCTYPE.html>
 <html>
 <head>
 <h1>Welcome to my website</h1y>
@@ -8,8 +7,8 @@
 <body>
 theme: jekyll-theme-cayman
 
-<h2>Heading</h2>
-<p>Paragraph.</p>
+<h2>What you will see on this site</h2>
+<p>On this website i will be talking about upcoming games and gaming news</p>
 
 </body>
 </html>
