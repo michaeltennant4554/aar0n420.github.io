@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Website</h1y>
+<h1>Welcome to my website</h1y>
 </head>
 <body>
-<body style="background-color:blue;">
+<body style="background-color:LightGray;">
 
 <h2>Heading</h2>
 <p>Paragraph.</p>
