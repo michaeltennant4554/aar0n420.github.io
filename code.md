@@ -1,7 +1,6 @@
 
 <!DOCTYPE html>
 <html>
-theme: jekyll-theme-cayman
 <head>
 <h1>Welcome to my website</h1>
 </head>
