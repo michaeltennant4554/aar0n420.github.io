@@ -23,9 +23,13 @@ body {
 <h3>Eminem s new movie has debuted in Toronto last wekk, with a lot of positive feedback.</h3>
 <p>The battle rap satire produced by Eminem is largely based on racism in the battle rap scene.</p>
 
-<a href="https://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwi3nMbFiqfWAhVZGsAKHXUIC64QtwIIUzAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeID2cEN3J1g&usg=AFQjCNFjIgc6vG1d2lVcjk_71C1k6BAahg">Watch the trailer here!</a>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/eID2cEN3J1g">
+</iframe>
+<h4>Watch the trailer here</h4>
 
 <p>Much of the soundtrack is being made by Eminem himself and Dr.Dre, which is good news to many of Dre's fans, after he left the rap game back in 2015 with his last album, "Compton"</p>
+
 
 
 </body></html>
