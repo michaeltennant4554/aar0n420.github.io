@@ -1,7 +1,14 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+        <title>
+
 <html><head>
 <style>
 body {
-    background-color: lightblue;
+    background-color: light blue;
 }
 </style>
 </head>
