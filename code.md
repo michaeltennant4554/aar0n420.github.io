@@ -3,8 +3,12 @@
 <html>
 
     <head>
+    <style><style>
         <title>
+        <h1>Welcome to my website</h1>
 
+        <p>I will be talking about gaming and rap news</p>
+        
 <html><head>
 <style>
 body {
@@ -27,7 +31,7 @@ body {
     
 <img src="https://humblebundle.imgix.net/misc/files/hashed/73b656380a1689b5188d4ff9b2386e6978d378d3.jpg?auto=format&amp;fit=crop&amp;h=353&amp;w=616&amp;ixlib=python-0.2.0&amp;s=159cfa2edf89c4bd6e2741fbf9eb1ac5" style="width:450px;height:400px;">
 
-<h3>Eminem s new movie has debuted in Toronto last week, with a lot of positive feedback.</h3>
+<h3>Eminem's new movie has debuted in Toronto last week, with a lot of positive feedback.</h3>
 <p>The battle rap satire produced by Eminem is largely based on racism in the battle rap scene.</p>
 
 <iframe width="420" height="315"
