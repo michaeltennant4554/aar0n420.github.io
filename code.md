@@ -1,9 +1,10 @@
 <!DOCTYPE HTML>
 
 <html>
-
+<body style="background-color:LightBlue;">
     <head>
-    <style><style>
+        <style><style>
+        
         <title>
         <h1>Welcome to my website</h1>
 
