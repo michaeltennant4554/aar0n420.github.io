@@ -27,8 +27,7 @@ body {
 <img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/8667595/xboxonex.jpg" style="width:500px;height450px;">
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=g-gp-Voq6MQ">
-
+src="https://www.youtube.com/embed/g-gp-Voq6MQ">
 </iframe>
 
 <p>Microsoft's new Xbox is set to release on November 7th, and it comes with many new features and some impressive specs:
