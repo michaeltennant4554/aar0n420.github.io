@@ -24,7 +24,7 @@ body {
 
 <h1>The Xbox One X is due to launch soon, as pre-orders have begun.</h1>
 <a href="https://www.xbox.com/en-us/xbox-one-x">Xbox One X</a>
-<img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/8667595/xboxonex.jpg" style="width:600px;height550px;">
+<img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/8667595/xboxonex.jpg" style="width:500px;height450px;">
 
 
 <h3>In other news, PlayerUnknown's: BattleGrounds has reached a milestone already, gaining over <em>1,000,000</em> concurrent players on Steam.</h3> <p>Meaning it has passed Dota 2 by 300,000 players and CounterStrike: Global Offence by 500,000 players. The game was only released 6 months ago and already has 10 million copies sold. This is almost nothing compared to how GTA V did on its first 24 hours, gaining <em>$800,000,000 worth of revenue with 11 million copies being sold.</em></p>
@@ -34,7 +34,9 @@ body {
 
 <h3>Fortnite copies PlayerUnknown's Battlegrounds?</h3>
 
-<p>Fortnite has released a new Battle Royale gamemode for free of Xbox One, PS4 and PC on September 26th. Many say it is a direct copy of Battlegrounds, as the gameplay, features and controls are heavely based on PlayerUnknown's new best selling game. Even some of the developers of Battlegrounds and publicily calling out Fortnite for stealing their idea. <em>Although, this is very hypocritical of them, as many others have pointed out that they stole the idea from H1Z1, who are credited for launching the Battle Royale games.</em></p>
+<p>Fortnite has released a new Battle Royale gamemode for free on Xbox One, PS4 and PC on September 26th. Many say it is a direct copy of Battlegrounds, as the gameplay, features and controls are heavely based on PlayerUnknown's new best selling game. Even some of the developers of Battlegrounds are publicily calling out Fortnite for stealing their idea. <em>Although, this is very hypocritical of them, as many others have pointed out that they stole the idea from H1Z1, who are credited for launching the Battle Royale games.</em></p>
+
+<img src="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fpatch-v-1-6---fortnite-battle-royale%2FFortnite_BR_Key-Art_w-Logo_ENG-1920x1080-3e2ce1453476b725fa59e7aeb6ecb90e4b75a0df.jpg" style="width:250px;height400;">
 
 <h4>Apple has been doing well this week, with the announcement of two new iPhones, a new Apple Watch, and the release of iOS 11.</h4>
 <img src="https://tctechcrunch2011.files.wordpress.com/2017/09/3q3a0859.jpg?w=1279&h=727&crop=1" style="width:350px;height:200px;">
