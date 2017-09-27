@@ -26,9 +26,6 @@ body {
 <a href="https://www.xbox.com/en-us/xbox-one-x">Xbox One X</a>
 <img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/8667595/xboxonex.jpg" style="width:500px;height450px;">
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/g-gp-Voq6MQ">
-</iframe>
 
 <p>Microsoft's new Xbox is set to release on November 7th, and it comes with many new features and some impressive specs:
 CPU: Eight-core 2.3GHz processor
@@ -42,6 +39,10 @@ Audio: DTS 5.1, Dolby Digital 5.1 and Atmos, PCM 2.0, 5.1, 7.1
 Wireless: Bluetooth, dual-band Wi-Fi, Wi-Fi Direct, IR blaster
 Connectors: 2x HDMI (2.0b out, 1.4b in), 3x USB 3.0 ports, IR out, S/PDIF, Ethernet
 This insane console will be priced at around <em>€570</em> if you pre-order through Microsoft's website, or <em>$680</em> for America and <em>£500</em> for the UK </p>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/g-gp-Voq6MQ">
+</iframe>
 
 
 
