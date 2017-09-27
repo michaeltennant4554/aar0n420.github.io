@@ -33,7 +33,7 @@ body {
 <img src="https://humblebundle.imgix.net/misc/files/hashed/73b656380a1689b5188d4ff9b2386e6978d378d3.jpg?auto=format&amp;fit=crop&amp;h=353&amp;w=616&amp;ixlib=python-0.2.0&amp;s=159cfa2edf89c4bd6e2741fbf9eb1ac5" style="width:500px;height:400px;">
 
 <h4>Apple has been doing well this week, with the announcement of two new iPhones, a new Apple Watch, and the release of iOS 11.</h4>
-<img src="https://tctechcrunch2011.files.wordpress.com/2017/09/3q3a0859.jpg?w=1279&h=727&crop=1" style="width:200px;height:200px;">
+<img src="https://tctechcrunch2011.files.wordpress.com/2017/09/3q3a0859.jpg?w=1279&h=727&crop=1" style="width:350px;height:200px;">
 <p>On the 12th of September, Apple held its annual conference, and in it, announced the iPhone 8, the iPhone X, which marks 10 years of iPhone and the new Apple watch. The iPhone X has broke many expectations, with its new infinite display, and facial recognition. Although, these features aren't anything new, as the Samsung Galaxy S8 has beaten them to it - by 5 months. The S8 came with the very nice infinite display and a retina scanner, while the iPhone X has a faciel scanner, which came as a humiliation for announcer Craig Federighi, as he failed multiple times to open the phone, resulting in him even switching to another device in hopes that it would work.</p>
 
 <a href="https://www.youtube.com/watch?v=Mv-3XgmAetQ">Watch the fail here</a>
