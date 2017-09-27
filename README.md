@@ -20,7 +20,7 @@ body {
 
 <h1>Welcome to my website</h1>
 
-<h2>I will be talking about gaming and rap news</h2>
+<h2>I will be talking about entertainment and technology news</h2>
 
 <h1>The Xbox One X is due to launch soon, as pre-orders have begun.</h1>
 <a href="https://www.xbox.com/en-us/xbox-one-x">Xbox One X</a>
