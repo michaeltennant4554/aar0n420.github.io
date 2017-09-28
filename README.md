@@ -2,6 +2,11 @@
 
 <html>
 <body style="background-color:LightBlue;">
+<style>
+p {
+    border: 5px solid powderblue;
+}
+</style>
     <head>
         <style><style>
         
