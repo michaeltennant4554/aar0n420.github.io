@@ -29,7 +29,7 @@ body {
 
 <h1>The Xbox One X is due to launch soon, as pre-orders have begun.</h1>
 
-<iframe src="https://www.xbox.com/en-us/xbox-one-x" height="1200" width="1400"></iframe>
+<iframe src="https://www.xbox.com/en-us/xbox-one-x" height="800" width="1100"></iframe>
 
 
 <p>Microsoft's new Xbox is set to release on November 7th, and it comes with many new features and some impressive specs:
@@ -69,6 +69,13 @@ src="https://www.youtube.com/embed/g-gp-Voq6MQ">
 <a href="https://www.youtube.com/watch?v=Mv-3XgmAetQ"><em>Watch the fail here</em></a>
 
 <p>The product costs an insane <em>$1000</em>, and by the looks of it, doesn't seem worth it.</p>
+
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="#">https://www.apple.com/iphone-x/</a>
+  </div>
+</div>
 
 <h3>Eminem's new movie has debuted in Toronto last week, with a lot of positive feedback.</h3>
 <p>The battle rap satire produced by Eminem is largely based on racism in the battle rap scene.</p>
