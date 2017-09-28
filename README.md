@@ -29,7 +29,7 @@ body {
 
 <h1>The Xbox One X is due to launch soon, as pre-orders have begun.</h1>
 
-<iframe src="https://www.xbox.com/en-us/xbox-one-x" height="200" width="300"></iframe>
+<iframe src="https://www.xbox.com/en-us/xbox-one-x" height="1200" width="1400"></iframe>
 
 
 <p>Microsoft's new Xbox is set to release on November 7th, and it comes with many new features and some impressive specs:
