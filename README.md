@@ -28,8 +28,8 @@ body {
 <h2>I will be talking about entertainment and technology news</h2>
 
 <h1>The Xbox One X is due to launch soon, as pre-orders have begun.</h1>
-<a href="https://www.xbox.com/en-us/xbox-one-x">Xbox One X</a>
-<img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/8667595/xboxonex.jpg" style="width:500px;height450px;">
+
+<iframe src="https://www.xbox.com/en-us/xbox-one-x" height="200" width="300"></iframe>
 
 
 <p>Microsoft's new Xbox is set to release on November 7th, and it comes with many new features and some impressive specs:
