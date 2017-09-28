@@ -71,9 +71,11 @@ src="https://www.youtube.com/embed/g-gp-Voq6MQ">
 <p>The product costs an insane <em>$1000</em>, and by the looks of it, doesn't seem worth it.</p>
 
 <div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
+  <button onclick="myFunction()" class="dropbtn">Click here for new products</button>
+  <div id="myDropdown" class="dropdown-content">
     <a href="#">https://www.apple.com/iphone-x/</a>
+    <a href="#">https://www.apple.com/iphone-8/</a>
+    <a href="#">https://www.apple.com/apple-watch-series-3/</a>
   </div>
 </div>
 
