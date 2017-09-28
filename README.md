@@ -53,8 +53,10 @@ src="https://www.youtube.com/embed/g-gp-Voq6MQ">
 
 <h3>In other news, PlayerUnknown's: BattleGrounds has reached a milestone already, gaining over <em>1,000,000</em> concurrent players on Steam.</h3> <p>Meaning it has passed Dota 2 by 300,000 players and CounterStrike: Global Offence by 500,000 players. The game was only released 6 months ago and already has 10 million copies sold. This is almost nothing compared to how GTA V did on its first 24 hours, gaining <em>$800,000,000 worth of revenue with 11 million copies being sold.</em></p>
 <p>This game is also set to release on Xbox One some time this year, as a publishing deal has been made between Microsoft Studios and PlayUnknown. This has a lot of PS4 users worried, as this could make the waiting time for PUBG on PS4 go up to possibly a year, and even a chance of it not being released on PS4 at all.</p>
-    
-<img src="https://humblebundle.imgix.net/misc/files/hashed/73b656380a1689b5188d4ff9b2386e6978d378d3.jpg?auto=format&amp;fit=crop&amp;h=353&amp;w=616&amp;ixlib=python-0.2.0&amp;s=159cfa2edf89c4bd6e2741fbf9eb1ac5" style="width:500px;height:400px;">
+   
+<a href="http://store.steampowered.com/app/578080/PLAYERUNKNOWNS_BATTLEGROUNDS/">
+    <img src="https://humblebundle.imgix.net/misc/files/hashed/73b656380a1689b5188d4ff9b2386e6978d378d3.jpg?                                 auto=format&amp;fit=crop&amp;h=353&amp;w=616&amp;ixlib=python-0.2.0&amp;s=159cfa2edf89c4bd6e2741fbf9eb1ac5"                         style="width:500px;height:400px;">
+</a>
 
 <h3>Fortnite copies PlayerUnknown's Battlegrounds?</h3>
 
@@ -69,15 +71,6 @@ src="https://www.youtube.com/embed/g-gp-Voq6MQ">
 <a href="https://www.youtube.com/watch?v=Mv-3XgmAetQ"><em>Watch the fail here</em></a>
 
 <p>The product costs an insane <em>$1000</em>, and by the looks of it, doesn't seem worth it.</p>
-
-<div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Click here for new products</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#">https://www.apple.com/iphone-x/</a>
-    <a href="#">https://www.apple.com/iphone-8/</a>
-    <a href="#">https://www.apple.com/apple-watch-series-3/</a>
-  </div>
-</div>
 
 <h3>Eminem's new movie has debuted in Toronto last week, with a lot of positive feedback.</h3>
 <p>The battle rap satire produced by Eminem is largely based on racism in the battle rap scene.</p>
