@@ -25,7 +25,7 @@ body {
 
 <h1>Welcome to my website</h1>
 
-<h2>I will be talking about entertainment and technology news</h2>
+<h2>I will be talking about entertainment, technology news and airsoft stuff</h2>
 
 <h1>The Xbox One X is due to launch soon, as pre-orders have begun.</h1>
 
@@ -83,6 +83,12 @@ src="https://www.youtube.com/embed/eID2cEN3J1g">
 <p>Much of the soundtrack is being made by Eminem himself and Dr.Dre, which is good news to many of Dre's fans, after he left the rap game back in 2015 with his last album, "Compton". Unfortunatly, neither will be seen in the movie itself. Eminem's last apperence on the big screen was in 2014 with his cameo in The Interview, but hasn't been in his own movie since his 2002 film 8 Mile.</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/en/b/bd/More_Music_from_8_Mile.jpg" style="width:300px;height:250px;">
+
+<h4>ASG G19 review>
+
+<p>ASG have made their modle of the famous Glock 19, which runs on Green Gas and has a very nice blowback system. the magazine capacity is 20 rounds, which is 5 more then the real deal. The gun can fire up to 45 BB's before running out of gas. When fired, it gives of a very crisp sound, which mostly comes from the slide during blowback and the hammer. It has an adjustable hop up system to increase the range and speed</p>
+
+
 
 
 
